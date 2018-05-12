@@ -1,10 +1,16 @@
 _repo: A-Trip-to-Pilawin-The-Deer-park-of-Count-Joseph-Potocki-in-Volhynia-Russia_49744
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49744-h/images/cover.jpg
 creator:
   author:
     agent_name: Lydekker, R.
     gutenberg_agent_id: '45522'
     url: http://www.gutenberg.org/2009/agents/45522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49744#A-Trip-to-Pilawin-The-Deer-park-of-Count-Joseph-Potocki-in-Volhynia-Russia
 gutenberg_issued: '2015-08-20'
 gutenberg_type: Text
 identifiers:
